@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: Mods
+permalink: /mods/
+description: Mods I have worked on or development entirely.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [WTT, Other]
 horizontal: false
 ---
 
