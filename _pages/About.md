@@ -1,17 +1,17 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Graphic Designer, Tarkov Modder, Professional Musician.
 
 profile:
-  align: left
+  align: right
   image: prof_pic_color.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <i class="fa-solid fa-user"></i><p>Willow D.</p>
-    <i class="fa-solid fa-person"></i><p>she/her</p>
-    <i class="fa-solid fa-globe"></i><p>Brighton, UK</p>
+   <p><i class="fa-solid fa-user"></i> Willow D.</p>
+    <p><i class="fa-solid fa-person"></i> she/her</p>
+    <p><i class="fa-solid fa-globe"></i> Brighton, UK</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
