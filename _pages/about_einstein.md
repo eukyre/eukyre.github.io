@@ -1,5 +1,12 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## About Me
+Hi! I'm Eukyre, or probablyEukyre. I'm an amateur 3D modeller, Texture artist and avid Escape From Tarkov modder based in Brighton, England.
+### Graphic Design
+I work as a freelance Graphic Designer under the name Maple Designs, (or [@MaplesGFXShed](https://www.instagram.com/maplesgfxshed)) as a logo designer as
+well as a professional Livery Designer for Simracing. My most notable works are for the ScrapYard Simracing
+Team, who you can find at [@sysr_team](https://www.instagram.com/sysr_team/) on instagram, or at [scrapyard.gg](https://scrapyard.gg/).
+### Tarkov Modding
+I work on the Single Player Tarkov fork of Escape From Tarkov as a Member and Project Lead on the
+[Welcome to Tarkov Team](https://welcometotarkov.com/#members). I also frequently post tutorial content and
+guides on my Workflows and tips in the [Tutorials tab](/tutorials/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My existing works and Mod download links are also availabe on the [Mods page](/mods/).
