@@ -121,7 +121,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Eukyre's Modding Tutorials # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_description: A Compendium of my learnings from my time modding.
 permalink: /tutorials/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -136,10 +136,10 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: # <your-github-user-name>/<your-github-repo-name>
-  repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
+  repo: eukyre/eukyre.github.io # <your-github-user-name>/<your-github-repo-name>
+  repo_id: R_kgDOTWggkQ# leave empty or specify your repo_id (see https://giscus.app/)
   category: Comments # name of the category under which discussions will be created
-  category_id: # leave empty or specify your category_id (see https://giscus.app/)
+  category_id: DIC_kwDOTWggkc4DBHYw # leave empty or specify your category_id (see https://giscus.app/)
   mapping: title # identify discussions by post title
   strict: 1 # use strict identification mode
   reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
@@ -158,9 +158,6 @@ giscus:
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
 external_sources:
-  - name: medium.com
-    categories: [resources]
-    tags:
   - name: SPT Wiki
     posts:
       - url: https://wiki.sp-tarkov.com/
@@ -183,7 +180,7 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
@@ -191,7 +188,7 @@ collections:
   projects:
     output: true
   teachings:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
