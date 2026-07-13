@@ -15,8 +15,6 @@ thumbnail: assets/img/tutorials/rippingGuide/asgui.png
 ### For this tutorial, you will need:
 
 - [AssetStudioModGUI v0.19.0](https://github.com/aelurum/AssetStudio/releases/tag/v0.19.0)
-- [Blender v4.3 or below](https://www.blender.org/download/previous-versions/)
-- [GameImageUtil](https://github.com/Scobalula/GameImageUtil/releases)
 - A working Unity AssetBundle
 
 ## What is AssetStudioModGUI?
