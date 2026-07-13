@@ -327,7 +327,7 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["unity", "substancePainter", "texturing", "modelling", "code"] # these tags will be displayed on the front page of your blog
+display_tags: ["unity", "substancePainter", "texturing", "modelling"] # these tags will be displayed on the front page of your blog
 display_categories: ["Tarkov Modding", "Texturing"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
