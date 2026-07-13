@@ -11,7 +11,7 @@ thumbnail: assets/img/tutorials/assetRetex/thumbnail.jpg
 <p>This tutorial will demonstrate how to re-texture a simple item in Single Player Tarkov. For simplicity's sake, we will be using
 a barter item with no modslots or type-specific scripts.</p>
 
-**THIS TUTORIAL WILL NOT COVER RIPPING AN ITEM FROM EFT, YOU CAN FIND A GUIDE ON THAT [HERE].**
+**THIS TUTORIAL WILL NOT COVER RIPPING AN ITEM FROM EFT, YOU CAN FIND A GUIDE ON THAT [HERE](https://eukyre.github.io/tutorials/2026/basics-ripping/).**
 
 ### For this tutorial, you will need:
 
