@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Retexturing a Barter Item
-date: 2026-07-14 13:21:50
+date: 2026-07-12 13:21:50
 description: A simple EFT item retexture guide.
 tags: substancePainter unity
 categories: Tarkov Modding

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ripping Assets from a Unity assetBundle
-date: 2026-07-14 13:21:50
+date: 2026-07-12 13:21:50
 description: Guide to ripping from Unity Games
 tags: unity
 categories: Tarkov Modding
