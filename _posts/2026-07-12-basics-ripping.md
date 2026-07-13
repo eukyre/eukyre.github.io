@@ -30,7 +30,7 @@ Unity AssetBundles (.bundle files, commonly.)
 
 Once installed, open ASGUI using **AssetStudioGUI.exe**, which should open in the window below.
 
-<center><img src="assets/img/tutorials/rippingGuide/asgui.png" zoomable=true></center>
+![ASGUI Window](assets/img/tutorials/rippingGuide/asgui.png)
 
 ### Step 2: Import your AssetBundle
 
@@ -46,11 +46,11 @@ explorer window that opens. Once found, click on the .bundle file and then click
 With ASGUI open, you can select your AssetBundle in another window, and drag-and-drop it into your ASGUI. This will
 load it in the exact same way as the Taskbar Method, though I personally find it quicker.
 
-<center><img src="assets/img/tutorials/rippingGuide/asgui_draganddrop.gif" zoomable=true></center>
+![Drag-n-Drop in ASGUI](assets/img/tutorials/rippingGuide/asgui_draganddrop.gif)
 
 If done correctly, you will see a new entry in the Scene Hierarchy window to the left of your ASGUI window.
 
-<center><img src="assets/img/tutorials/rippingGuide/asgui_loadedFile.png" zoomable=true></center>
+![What a Loaded file should look like in ASGUI](assets/img/tutorials/rippingGuide/asgui_loadedFile.png)
 
 ### Step 3: Browse the Assets
 
@@ -69,7 +69,7 @@ components within that AssetBundle, with the most common types being the followi
 
 The **Asset List** also supports clicking on _some_ assets to preview them, such as Meshes or
 AudioClips.
-<center><img src="assets/img/tutorials/rippingGuide/asgui_assetPreview.png" zoomable=true></center>
+![Asset Previews in ASGUI](assets/img/tutorials/rippingGuide/asgui_assetPreview.png)
 
 ## Step 4: Selecting Wanted Assets
 
@@ -82,7 +82,7 @@ want.
 You can also filter by Name, Container, Type, PathID and Size using the headers at the top of the
 **Asset List** window.
 
-<center><img src="assets/img/tutorials/rippingGuide/asgui_SortByType.gif" height="500" zoomable=true></center>
+![ASGUI's Sort By Type Function in use.](assets/img/tutorials/rippingGuide/asgui_SortByType.gif)
 
 ## Step 5: Exporting Specific Assets
 
@@ -102,7 +102,7 @@ If you want to extract the entire AssetBundle, there are 2 ways to do so:
 With your loaded AssetBundle, simply navigate to the Top Navbar and click **Export → All Assets**, and provide an
 Output folder. Similarly to Step 5, the output will be sorted into folders and neatly organised.
 
-<center><img src="assets/img/tutorials/rippingGuide/step6_fullDump.png" zoomable=true></center>
+![Output for Step 6, Part 1](assets/img/tutorials/rippingGuide/step6_fullDump.png)
 
 **This Method does have some downsides, however.** By using this method to dump the bundle, it exports into a .obj
 file that carries no metadata like material data, texture info, or
@@ -114,16 +114,16 @@ For this method, you need to select the File Hierarchy that shows up in the **Sc
 Top Navbar. I personally recommend selecting the **Second File in the Hierarchy**, which is usually the next one
 underneath the CAB-ID when you open up the Hierarchy in ASGUI, as seen below.
 
-<center><img src="assets/img/tutorials/rippingGuide/step6_hierarchy.png" zoomable=true></center>
+![File Hierarchy Preview for Step 6](assets/img/tutorials/rippingGuide/step6_hierarchy.png)
 
 Once this is selected, navigate to **Model → Export selected objects (Merge)** at the top of the ASGUI window.
 
-<center><img src="assets/img/tutorials/rippingGuide/step6_fbxExportSettings.png" zoomable=true></center>
+![FBX Export Settings for Step 6](assets/img/tutorials/rippingGuide/step6_fbxExportSettings.png)
 
 Provide an Output Folder in the Explorer Window that appears, and let ASGUI do its thing. **Your Output should look
 something like this:**
 
-<center><img src="assets/img/tutorials/rippingGuide/step6_fbxOutput.png" zoomable=true></center>
+![FBX output for Step 6](assets/img/tutorials/rippingGuide/step6_fbxOutput.png)
 
 <center><h2>And that's it!</h2></center>
 
