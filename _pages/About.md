@@ -9,8 +9,8 @@ profile:
   image: prof_pic_color.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p><i class="fa-solid fa-user"></i> Willow D.</p>
-     <p><i class="fa-solid fa-person"></i> she/her</p>
+    <p><i class="fa-solid fa-user"></i> Willow D.</p><br>
+     <p><i class="fa-solid fa-person"></i> she/her</p><br>
      <p><i class="fa-solid fa-globe"></i> Brighton, UK</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
